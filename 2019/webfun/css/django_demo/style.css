@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: #0B4B33;
+    color: white;
+}
+
+.navigation{
+    width: 1300px;
+    margin: auto;
+    padding: 10px;
+    font-family: "Roboto", Corbel, Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+}
+.left-nav p{
+    width: 208px;
+    vertical-align: middle;
+    font-size: small;
+}
+
+.right-nav p, .right-nav, .left-nav, .left-nav h1, .left-nav p{
+    display: inline-block;
+}
+.right-nav{
+    width: 900px;
+    text-align: right;
+}
+.right-nav a{
+    font-size: small;
+    margin: 10px; 
+    text-decoration: none;
+    color: white;
+}
+.jumbotron{
+    height: 400px;
+    padding-top: 150px;
+}
+.jumbotron h1{
+    width: 650px;
+    margin: auto;
+    font-weight: lighter;
+    font-family: "Roboto", Corbel, Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+    color: #0B4B33
+}
+
+.jumbotron button{
+    border-radius: 5%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: larger;
+    background-color: #45B78B;
+    color:white;
+    margin:auto;
+    display: block;
+    margin-top:40px;
+}
