@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1120px;
+    min-height:300px;
+    background-color: #D4D1AE;
+    margin: auto;
+    padding: 20px;
+}
+.title {
+    width: 600px;
+    margin: auto;
+}
+.title img {
+    height: 75px;
+    width: 150px;
+}
+
+.title img, .title h1{
+    display: inline-block;
+}
+.box img{
+    height: 150px;
+    width: 150px;
+    border: blue 25px solid;
+    background-color: white; 
+}
+.box{
+    border:solid black 5px;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 5px;
+}
+.odd img{
+    border: pink 25px solid;
+    background-color: pink
+}
